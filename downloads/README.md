@@ -21,8 +21,5 @@ Diese Skripte korrigiert falsche einfache/doppelte Anführungs- & Schlusszeichen
 1. Link öffnen
 2. Rechtsklick auf Seite machen
 3. Sichern unter => InDesign Skript-Bedienfeld (siehe auch Anleitung im README.md der einzelnen Skripte)
-<br />
+
 ![Anleitung zum Ablegen der Skriptdateien](https://docs.github.com/assets/cb-319648/images/help/writing/image-rendered.png)
-<br />
-# test
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
