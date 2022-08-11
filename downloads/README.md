@@ -1,7 +1,7 @@
 # Verfügbare Skripte
 ## delete-multiple-fixed-values
 Dieses Skript vereinheitlich mehrere Festwerte (beispielsweise mehrere Leerzeichen) in einen Festwert.
-[Download]({{file name='downloads/delete-multiple-fixed-values/delete-multiple-fixed-values.jsxbin'}})
+[Download](downloads/delete-multiple-fixed-values/delete-multiple-fixed-values.jsxbin)
 ## format-apostrophs
 Dieses Skript korrigiert diese falsche Apostrophs.
 ## format-telephone-numbers
@@ -21,4 +21,4 @@ Diese Skripte korrigiert falsche einfache/doppelte Anführungs- & Schlusszeichen
 2. Rechtsklick auf Seite machen
 3. Sichern unter => InDesign Skript-Bedienfeld (siehe auch Anleitung im README.md der einzelnen Skripte)
 <br />
-![Anleitung zum Ablegen der Skriptdateien](https://github.com/noel-buergler/noelbuergler/tree/main/downloads/_etc/saving-downloads.png?raw=true)
+![Anleitung zum Ablegen der Skriptdateien](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/_etc/saving-downloads.png)
