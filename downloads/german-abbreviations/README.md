@@ -1,7 +1,7 @@
 # Erläuterungen zum Skript
 Dieses Skript vereinheitlich deutsche Abkürzungen:<br />
 `a.A.`, `d.h.`, `i.V.`, `m.E.`, `m.W.`, `o.A.`, `u.a.`, `u.a.m`, `z.B/Z.B`, `z.H.`, `z.T.`, `Dr.`, `iur.`, `med.`, `oec.`, `rer.`, `Prof.`, `Art.`, `lit.`, `dipl.`, `Ing.`, `S.`, `Rz.`, `N.`, `Bst.`, `Anm.`, `Nr.`, `E.`, `m.ü.M`, `Fr. 00.–` (mit und ohne Leerzeichen nach Punkt) zu:<br />
-`a. A.`, `d. h.`, `i. V.`, `m. E.`, `m. W.`, `o. A.`, `u. a.`, `u. a. m`, `z. B./Z. B`, `z. H.`, `z. T.`, `Dr.`, `iur. .`, `med.`, `oec.`, `rer.`, `Prof.`, `Art.`, `lit.`, `dipl.`, `Ing.`, `S.`, `Rz.`, `N.`, `Bst.`, `Anm.`, `Nr.`, `E.`, `m. ü. M`, `Fr. 00.–` (mit Achtelgeviert)
+`a. A.`, `d. h.`, `i. V.`, `m. E.`, `m. W.`, `o. A.`, `u. a.`, `u. a. m`, `z. B./Z. B`, `z. H.`, `z. T.`, `Dr.`, `iur.`, `med.`, `oec.`, `rer.`, `Prof.`, `Art.`, `lit.`, `dipl.`, `Ing.`, `S.`, `Rz.`, `N.`, `Bst.`, `Anm.`, `Nr.`, `E.`, `m. ü. M`, `Fr. 00.–` (mit Achtelgeviert)
 
 # Installation
 ## Windows
