@@ -20,17 +20,17 @@ Dieses Skript vereinheitlich deutsche Abkürzungen:
 
 ## kerning-spatium
 Diese Skripte fügen ein Spatium (30, 50, 80 Einheiten) vor gewissen typografischen Zeichen ein. Wählen Sie das zu der Schrift passende aus.<br />
-[Download – 30 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/delete-multiple-fixed-values/kerning-spatium_30.jsxbin)
-[Download – 50 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/delete-multiple-fixed-values/kerning-spatium_50.jsxbin)
+[Download – 30 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/delete-multiple-fixed-values/kerning-spatium_30.jsxbin)<br />
+[Download – 50 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/delete-multiple-fixed-values/kerning-spatium_50.jsxbin)<br />
 [Download – 80 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/delete-multiple-fixed-values/kerning-spatium_80.jsxbin)
 
 ## quotation-and-closing-marks
 Diese Skripte korrigiert falsche einfache/doppelte Anführungs- & Schlusszeichen in verschiedenen Sprachen (Schweizerdeutsch, Deutsch, Französisch)<br />
-[Download – Französische doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/french-double-quotation-and-closing-marks.jsxbin)
-[Download – Französische einzel](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/french-single-quotation-and-closing-marks.jsxbin)
-[Download – Deutsche doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/german-double-quotation-and-closing-marks.jsxbin)
-[Download – Deutsche einzel](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/german-single-quotation-and-closing-marks.jsxbin)
-[Download – Schweizer doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/swiss-double-quotation-and-closing-marks.jsxbin)
+[Download – Französische doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/french-double-quotation-and-closing-marks.jsxbin)<br />
+[Download – Französische einzel](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/french-single-quotation-and-closing-marks.jsxbin)<br />
+[Download – Deutsche doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/german-double-quotation-and-closing-marks.jsxbin)<br />
+[Download – Deutsche einzel](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/german-single-quotation-and-closing-marks.jsxbin)<br />
+[Download – Schweizer doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/swiss-double-quotation-and-closing-marks.jsxbin)<br />
 [Download – Schweizer einzel](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/swiss-single-quotation-and-closing-marks.jsxbin)
 
 
