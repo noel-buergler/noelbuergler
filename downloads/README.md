@@ -1,6 +1,7 @@
 # Verfügbare Skripte
 ## delete-multiple-fixed-values
 Dieses Skript vereinheitlich mehrere Festwerte (beispielsweise mehrere Leerzeichen) in einen Festwert.
+[Download]({{file name='downloads/delete-multiple-fixed-values/delete-multiple-fixed-values.jsxbin'}})
 ## format-apostrophs
 Dieses Skript korrigiert diese falsche Apostrophs.
 ## format-telephone-numbers
