@@ -2,7 +2,7 @@
 ## delete-multiple-fixed-values
 Dieses Skript vereinheitlich mehrere Festwerte (beispielsweise mehrere Leerzeichen) in einen Festwert.
 <br />
-[Download](/downloads/delete-multiple-fixed-values/delete-multiple-fixed-values.jsxbin)
+[Download](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/delete-multiple-fixed-values/delete-multiple-fixed-values.jsxbin)
 ## format-apostrophs
 Dieses Skript korrigiert diese falsche Apostrophs.
 ## format-telephone-numbers
@@ -23,3 +23,6 @@ Diese Skripte korrigiert falsche einfache/doppelte Anführungs- & Schlusszeichen
 3. Sichern unter => InDesign Skript-Bedienfeld (siehe auch Anleitung im README.md der einzelnen Skripte)
 <br />
 ![Anleitung zum Ablegen der Skriptdateien](https://docs.github.com/assets/cb-319648/images/help/writing/image-rendered.png)
+<br />
+# test
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
