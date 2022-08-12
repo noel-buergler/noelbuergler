@@ -18,6 +18,12 @@ Dieses Skript vereinheitlich deutsche Abkürzungen:
 `a.A.`, `d.h.`, `i.V.`, `m.E.`, `m.W.`, `o.A.`, `u.a.`, `u.a.m`, `z.B/Z.B`, `z.H.`, `z.T.`, `Dr.`, `iur.`, `med.`, `oec.`, `rer.`, `Prof.`, `Art.`, `lit.`, `dipl.`, `Ing.`, `S.`, `Rz.`, `N.`, `Bst.`, `Anm.`, `Nr.`, `E.`, `m.ü.M`, `Fr. 00.–`<br />
 [Download](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/german-abbreviations/german-abbreviations.jsxbin)
 
+## group-numbers
+Dieses Skript vereinheitlich Nummern bis zu einer Milliarde von folgendem Muster:<br />
+`1000000`, `100000`, `10000`, `1’000’000`, `100’000`, `10’000`, `1‘000‘000`, `100‘000`, `10‘000`, `1‹000‹000`, `100‹000`, `10‹000`<br />
+`1 000 000`, `100 000`, `10 000` (mit Achtelgeviert)
+[Download](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/group-numbers/group-numbers.jsxbin)
+
 ## kerning-spatium
 Diese Skripte fügen ein Spatium (30, 50, 80 Einheiten) vor gewissen typografischen Zeichen ein. Wählen Sie das zu der Schrift passende aus.<br />
 [Download – 30 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/kerning-spatium/kerning-spatium_30.jsxbin)<br />
