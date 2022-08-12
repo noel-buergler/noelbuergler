@@ -1,7 +1,7 @@
 # Erläuterungen zum Skript
 Dieses Skript vereinheitlich Nummern bis zu einer Milliarde von folgendem Muster:<br />
 `1000000`, `100000`, `10000`, `1’000’000`, `100’000`, `10’000`, `1‘000‘000`, `100‘000`, `10‘000`, `1‹000‹000`, `100‹000`, `10‹000`<br />
-`1 000 000`, `100 000`, `10 000` (mit Achtelgeviert)
+zu folgendem Muster: `1 000 000`, `100 000`, `10 000` (mit Achtelgeviert)
 
 # Installation
 ## Windows
