@@ -30,6 +30,11 @@ Diese Skripte fügen ein Spatium (30, 50, 80 Einheiten) vor gewissen typografisc
 [Download – 50 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/kerning-spatium/kerning-spatium_50.jsxbin)<br />
 [Download – 80 Einheiten](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/kerning-spatium/kerning-spatium_80.jsxbin)
 
+## quaver-in-french-punctuation-marks
+Diese Skripte korrigiert die französischen Satzzeichen (`?`, `!`, `:`, `;`, `»`, `›`, `«`, `‹`) und fügt einen Achtelgeviert-Abstand vor/nach ein.<br /> 
+Beim Doppelpunkt wird darauf geachtet, dass Web-URLs, die mit `https://` oder `http://` starten, nicht geändert werden.<br />
+[Download](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/quaver-in-french-punctuation-marks/quaver-in-french-punctuation-marks.jsxbin)
+
 ## quotation-and-closing-marks
 Diese Skripte korrigiert falsche einfache/doppelte Anführungs- & Schlusszeichen in verschiedenen Sprachen (Schweizerdeutsch, Deutsch, Französisch)<br />
 [Download – Französische doppelt](https://raw.githubusercontent.com/noel-buergler/noelbuergler/main/downloads/quotation-and-closing-marks/french-double-quotation-and-closing-marks.jsxbin)<br />
